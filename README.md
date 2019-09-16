@@ -11,3 +11,5 @@ En este proyecto se aprendio sobre:
 * Actions
 * UIAlertCOntroller
 * AutoLayout
+
+![](Project2.gif)
